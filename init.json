@@ -7,8 +7,8 @@
           "use"       :true,
           "color"     :"BLACK"
   },
-  "mode"              : "free",
-  "user_agent"        : "Mozilla/5.0 (FreeBSD; Viera; rv:34.0) Gecko/20100101 Firefox/34.0",
+  "mode"              : "key",
+  "user_agent"        : "",
   "console_log"       :false,
   "allowed_domain"    :[
                        ],
